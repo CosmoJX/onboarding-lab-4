@@ -1,0 +1,14 @@
+# Target labels
+ vcpkg-populate
+# Source files and their labels
+/home/james/work/vip/onboarding-lab-4/dv/_deps/vcpkg-subbuild/CMakeFiles/vcpkg-populate
+/home/james/work/vip/onboarding-lab-4/dv/_deps/vcpkg-subbuild/CMakeFiles/vcpkg-populate.rule
+/home/james/work/vip/onboarding-lab-4/dv/_deps/vcpkg-subbuild/CMakeFiles/vcpkg-populate-complete.rule
+/home/james/work/vip/onboarding-lab-4/dv/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-build.rule
+/home/james/work/vip/onboarding-lab-4/dv/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-configure.rule
+/home/james/work/vip/onboarding-lab-4/dv/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-download.rule
+/home/james/work/vip/onboarding-lab-4/dv/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-install.rule
+/home/james/work/vip/onboarding-lab-4/dv/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-mkdir.rule
+/home/james/work/vip/onboarding-lab-4/dv/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-patch.rule
+/home/james/work/vip/onboarding-lab-4/dv/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-test.rule
+/home/james/work/vip/onboarding-lab-4/dv/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-update.rule
